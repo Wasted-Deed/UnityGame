@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/Frames.meta
+    - Assets/Prefabs/Frames/14994IQabVOALcSldUkvygJMpfWz.jpg
+    - Assets/Prefabs/Frames/14994IQabVOALcSldUkvygJMpfWz.jpg.meta
+    - Assets/Prefabs/Frames/3d-55_o.jpg
+    - Assets/Prefabs/Frames/3d-55_o.jpg.meta
+    - Assets/Prefabs/Frames/A-mercenary-on-the-rise-en.jpg
+    - Assets/Prefabs/Frames/A-mercenary-on-the-rise-en.jpg.meta
+    - Assets/Prefabs/Frames/Cyberpunk2077_Smoke_and_mirrors-RGB-en.jpg
+    - Assets/Prefabs/Frames/Cyberpunk2077_Smoke_and_mirrors-RGB-en.jpg.meta
+    - Assets/Prefabs/Frames/Geralt_sword-size_1600x1200.png
+    - Assets/Prefabs/Frames/Geralt_sword-size_1600x1200.png.meta
+    - Assets/Prefabs/Frames/JEY2SF92_Jc.jpg
+    - Assets/Prefabs/Frames/JEY2SF92_Jc.jpg.meta
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt-Geralt_Horse_EN.jpg
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt-Geralt_Horse_EN.jpg.meta
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt_Blood_and_Wine_Road_to_Palace_EN.jpg
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt_Blood_and_Wine_Road_to_Palace_EN.jpg.meta
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt_Ice_Giant_Cave.jpg
+    - Assets/Prefabs/Frames/The_Witcher_3_Wild_Hunt_Ice_Giant_Cave.jpg.meta
+    - Assets/Prefabs/Frames/dual_monitor_wallpapers_geralt&ciri_pack_left_EN.png
+    - Assets/Prefabs/Frames/dual_monitor_wallpapers_geralt&ciri_pack_left_EN.png.meta
+    - Assets/Prefabs/GameControllerScript.prefab
+    - Assets/Prefabs/GameControllerScript.prefab.meta
+    - Assets/Scenes.meta
+    - Assets/Scenes/Game.unity
+    - Assets/Scenes/Game.unity.meta
+    - Assets/Scenes/Menu.unity
+    - Assets/Scenes/Menu.unity.meta
+    - Assets/Scripts.meta
+    - Assets/Scripts/GameControllerScript.cs
+    - Assets/Scripts/GameControllerScript.cs.meta
+    - Assets/Scripts/ImChangerScript.cs
+    - Assets/Scripts/ImChangerScript.cs.meta
+    - Assets/Scripts/MenuControllerScript.cs
+    - Assets/Scripts/MenuControllerScript.cs.meta
+    - ProjectSettings/EditorBuildSettings.asset
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 000000000000000000000000000000000000000000000000000000000000000000000000000000
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
